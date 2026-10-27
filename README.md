@@ -8,6 +8,10 @@
 [![Open-Weights](https://img.shields.io/badge/Open--Weights-Gemma%202%20%7C%20Llama%203.2-8A2BE2?style=for-the-badge)](https://ollama.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
+<p align="center">
+  <img src="assets/cover.jpg" alt="Hostel Haunt Cover Banner" width="100%" style="border-radius: 10px;" />
+</p>
+
 ---
 
 ## 👻 Overview
