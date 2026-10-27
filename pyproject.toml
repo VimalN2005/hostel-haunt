@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hostel-haunt"
+version = "1.0.0"
+description = "The ghost that lives in your laptop and remembers what the night, the exams, the family calls, and the empty corridors try to forget."
+readme = "README.md"
+authors = [{ name = "Vimal Sahani", email = "vimalsahani2005@gmail.com" }]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.35.0",
+    "pydantic>=2.7.0",
+    "rich>=13.7.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0"
+]
+
+[project.scripts]
+hostel-haunt = "hostel_haunt.cli:main"
