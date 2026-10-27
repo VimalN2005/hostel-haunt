@@ -59,6 +59,14 @@ Hundreds of miles away from home, nothing grounds a student more than a mother's
 
 ---
 
+## 🎥 Live Interactive Demo
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Hostel Haunt Interactive Demo" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" />
+</p>
+
+---
+
 ## 🏛️ System Architecture
 
 ```mermaid
